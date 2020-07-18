@@ -8,7 +8,7 @@ public class HelloHandler {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "hi~SpringBoot~~~111";
+        return "hi~SpringBoot~~~222";
     }
 
 }
